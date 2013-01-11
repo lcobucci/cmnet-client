@@ -6,7 +6,7 @@ use \stdClass;
 use \SoapVar;
 
 /**
- * Cabeçalhoe de autenticação do webservice
+ * Cabeçalhos de autenticação do webservice
  *
  * @author Luís Otávio Cobucci Oblonczyk <lcobucci@gmail.com>
  */
